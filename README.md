@@ -1,7 +1,7 @@
 Hi 👋 My name is Susanta Gorai
 ==============================
 
-FULL STACK WEB DEVELOPER
+Ece undergraduate || Learning DSA || Learning Frontend Development 
 ------------------------
 
 * 🌍  I'm based in Bankura,West Bengle
