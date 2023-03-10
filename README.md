@@ -13,6 +13,9 @@ Ece undergraduate || Learning DSA || Learning Frontend Development
 <a href="https://www.github.com/Susanta-0007" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Susanta-0007?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
+### Profile 
+![Profile View Counter](https://komarev.com/ghpvc/?username=Susanta-0007)
+
 ### Skills
 
 <p align="left">
