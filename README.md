@@ -1,19 +1,20 @@
-Hi 👋 My name is Susanta Gorai
+Hey folks 👋 ,
+This Side Susanta Gorai 🙏
 ==============================
 
-Ece undergraduate || Learning DSA || Learning Frontend Development 
+[] Problem Solving 🚀 [] React js💚 [] Web Development 🥷 [] System Design 🧑‍🔧  [] DSA 👽 [] CS Fundamentals 🧑‍🏫 []
 ------------------------
 
-* 🌍  I'm based in Bankura,West Bengle
+* 🌍  I'm based in West Bengal a Little City Bankura 💚
 * 🖥️  See my portfolio at [MY Portfolio.](http://susantagorai08.github.io/Resume_Project01CN/)
 * ✉️  You can contact me at [goraisusanta2018@gmail.com](mailto:goraisusanta2018@gmail.com)
-* 🧠  I'm learning MERN stack AND DSA
-* 🤝  I'm open to collaborating on Realtime Chat Application
+* 🧠  I'm learning now : MERN 
+
 
 <a href="https://www.github.com/Susanta-0007" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Susanta-0007?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-### Profile 
+
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Susanta-0007)
 
 ### Skills
