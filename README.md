@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Susanta Gorai</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate Fronted Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=susanta-0007&label=Profile%20views&color=0e75b6&style=flat" alt="susanta-0007" /> </p>
 
@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning ** Backend Development  **
 
-- 👨‍💻 All of my projects are available at [https://susantadev007.netlify.app](https://susantadev007.netlify.app)
+- 👨‍💻 All of my projects are available at [https://susantadev007.netlify.app](https://susanta.netlify.app/)
 
-- 💬 Ask me about **React, Node, Express, MongoDB, SQL**
+- 💬 Ask me about **Anything about Frontend**
 
 - 📫 How to reach me **goraisusanta2018@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13PiroDr7CknsEReVlK-9yDF8MAxCRpvy/view?usp=drive_link](https://drive.google.com/file/d/13PiroDr7CknsEReVlK-9yDF8MAxCRpvy/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1b83EgJUOSAxRVHX1i3O1yzSx5eN8rpPI/view?usp=drive_link)
 
 - ⚡ Fun fact **I think that in 1st Year that the "CODE" spelling is "COAD"**
 
